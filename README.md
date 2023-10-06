@@ -31,3 +31,8 @@ Claro, aquí está el texto formateado en formato Markdown (MD) con los elemento
   - Exploramos algoritmos de aprendizaje automático como regresión lineal, regresión polinómica o modelos de series temporales para predecir los precios de Bitcoin. Evaluamos el rendimiento de los modelos utilizando métricas como el error cuadrático medio (MSE) o el coeficiente de determinación (R-cuadrado). Visualizamos las predicciones en comparación con los datos reales para comprender el rendimiento del modelo.
 
 Estos son los tres días resumidos en formato Markdown, con los elementos importantes en negrita. ¡Espero que te sea útil!
+
+Día 4 - Jueves
+SpaceX - 1 - Data Collection Api
+
+SpaceX - 3 -EDA Using SQL
